@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring.version>5.2.0.RELEASE</spring.version>
+        <spring.version>5.2.10.RELEASE</spring.version>
 
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <thymeleafspringsecurity5.version>3.0.3.RELEASE</thymeleafspringsecurity5.version>
